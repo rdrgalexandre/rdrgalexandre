@@ -1,4 +1,4 @@
-### Olá, sou Rodrigo Alexandre 👋
+### Olá, sou Rodrigo Menêses 👋
 
 - 🔭 Atualmente sou freelance fullstack, contribuo na construção de um sistema de informações para a Agência Pernambucana de Águas e Climas.
 - 🌱 Estou me aprofundado nas ciências de dados, robótica e back-end.
